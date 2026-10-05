@@ -63,3 +63,15 @@ The training and testing datasets were combined for analysis.
 ## Project File
 
 The Power BI dashboard is available in the `.pbix` file included in this repository.
+
+
+## Dashboard Preview
+
+### Passenger Overview
+![Passenger Overview](Passenger_Overview.png)
+
+### Service Experience
+![Service Experience](Service_Experience.png)
+
+### Flight Delay Analysis
+![Flight Delay Analysis](Flight_Delay_Analysis.png)
